@@ -4,4 +4,4 @@ A deep learning model to DETECT and CLASSIFY disease present in lettuce plants g
 _____________________________________________________
 
 ## Below is the model flowchart
-![loading..](/Disease Detection Flowchart (1).png)
+![loading..](/Disease-Detection-Flowchart.png)
