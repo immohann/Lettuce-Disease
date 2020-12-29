@@ -5,3 +5,8 @@ _____________________________________________________
 
 ## Below is the model flowchart
 ![loading..](/Disease-Detection-Flowchart.png)
+
+
+____________________________________________________
+
+Model Details: 
