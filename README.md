@@ -3,8 +3,8 @@ A deep learning model to DETECT and CLASSIFY disease present in different plant 
 
 _____________________________________________________
 
-## Below is the model flowchart
-![loading..](/Disease-Detection-Flowchart.png)
+## Below is testing of model
+![loading..](/test1.png)
 
 
 ____________________________________________________
